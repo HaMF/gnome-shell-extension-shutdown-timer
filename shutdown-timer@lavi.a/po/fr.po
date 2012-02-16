@@ -7,7 +7,7 @@ msgstr ""
 "Project-Id-Version: \n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2012-02-14 14:07+0200\n"
-"PO-Revision-Date: 2012-02-14 14:08+0200\n"
+"PO-Revision-Date: 2012-02-17 00:29+0200\n"
 "Last-Translator: Lavi .A <laviams@gmail.com>\n"
 "Language-Team: dmnpch1\n"
 "Language: fr\n"
@@ -48,7 +48,7 @@ msgstr "3"
 #: /home/lavi/Development/Gnome Shell
 #: Extensions/shutdown-timer@lavi.a/extension.js:326
 #, c-format
-msgid "The System will Power Off at %s"
+msgid "The system will power off at %s"
 msgstr "Le système va s'éteindre à %ss."
 
 #: /home/lavi/Development/Gnome Shell

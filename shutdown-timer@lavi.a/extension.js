@@ -327,7 +327,7 @@ function timeStr(h,m,delay) {
 }
 //Function: print_timeL - change text of Time Label. time[time string],active[bool]
 function print_timeL(time, active) {
-	var on = _("The System will Power Off at %s".format(time));
+	var on = _("The system will power off at %s").format(time);
 	var off = _("Timer is currently inactive.");
 	if (active) {
 		return on;
@@ -360,7 +360,7 @@ function remainStr(iS, eS) {
 //Function: ntf - Send desktop notification
 function ntf(t)
 {
-	var msg = _("The system will power off in %s minutes.".format(t));
+	var msg = _("The system will power off in %s minutes.").format(t);
 	let src = new MessageTray.SystemNotificationSource();
     Main.messageTray.add(src);
     let notification = new MessageTray.Notification(src, msg, null);
