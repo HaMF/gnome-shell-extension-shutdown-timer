@@ -1,0 +1,60 @@
+# Finnish translation for shutdown-timer
+# Copyright (c) 2012 Rosetta Contributors and Canonical Ltd 2012
+# This file is distributed under the same license as the shutdown-timer package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, 2012.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: shutdown-timer\n"
+"Report-Msgid-Bugs-To: FULL NAME <EMAIL@ADDRESS>\n"
+"POT-Creation-Date: 2012-02-14 14:03+0200\n"
+"PO-Revision-Date: 2012-02-20 21:20+0000\n"
+"Last-Translator: Jiri Grönroos <Unknown>\n"
+"Language-Team: Finnish <fi@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Launchpad-Export-Date: 2012-02-21 20:08+0000\n"
+"X-Generator: Launchpad (build 14838)\n"
+
+#: /home/lavi/Development/Gnome Shell
+#: Extensions/shutdown-timer@lavi.a/extension.js:52
+msgid ":"
+msgstr ":"
+
+#: /home/lavi/Development/Gnome Shell
+#: Extensions/shutdown-timer@lavi.a/extension.js:116
+msgid "Delay (minutes/time) e.g. 70 or 18:30"
+msgstr "Viive (minuutteina tai tarkka aika) esim. 70 tai 18:30"
+
+#: /home/lavi/Development/Gnome Shell
+#: Extensions/shutdown-timer@lavi.a/extension.js:148
+msgid "Active"
+msgstr "Aktiivinen"
+
+#: /home/lavi/Development/Gnome Shell
+#: Extensions/shutdown-timer@lavi.a/extension.js:152
+msgid "Notifications"
+msgstr "Ilmoitukset"
+
+#: /home/lavi/Development/Gnome Shell
+#: Extensions/shutdown-timer@lavi.a/extension.js:280
+msgid "3"
+msgstr "3"
+
+#: /home/lavi/Development/Gnome Shell
+#: Extensions/shutdown-timer@lavi.a/extension.js:326
+#, c-format
+msgid "The system will power off at %s"
+msgstr "Järjestelmä sammuu kello %s."
+
+#: /home/lavi/Development/Gnome Shell
+#: Extensions/shutdown-timer@lavi.a/extension.js:327
+msgid "Timer is currently inactive."
+msgstr "Ajastin ei ole aktiivisena."
+
+#: /home/lavi/Development/Gnome Shell
+#: Extensions/shutdown-timer@lavi.a/extension.js:360
+#, c-format
+msgid "The system will power off in %s minutes."
+msgstr "Järjestelmä sammuu %s minuutin kuluttua."
